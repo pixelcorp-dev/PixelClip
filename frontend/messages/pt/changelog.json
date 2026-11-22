@@ -1,0 +1,21 @@
+{
+  "metaTitle": "Novidades do PixelClip",
+  "metaDescription": "Novos recursos, melhorias e correções do PixelClip, do recorte na Twitch e na Kick aos preços e ao editor.",
+  "ogTitle": "Novidades do PixelClip",
+  "ogDescription": "O que mudou no PixelClip para quem usa o produto. As atualizações mais recentes vêm primeiro.",
+  "eyebrow": "Atualizações",
+  "title": "Novidades",
+  "intro": "O que mudou para quem usa o PixelClip. As atualizações mais recentes vêm primeiro.",
+  "hostedApp": "App hospedado",
+  "startClipping": "Comece a criar clipes",
+  "relatedChange": "Alteração relacionada {label}",
+  "viewOnGitHub": "Ver o changelog no GitHub",
+  "discordUpdates": "Receba novidades no Discord",
+  "discordDescription": "Ative os avisos quando publicarmos novas notas de versão.",
+  "categories": {
+    "new": "Novo",
+    "improved": "Melhorado",
+    "fixed": "Corrigido",
+    "underTheHood": "Nos bastidores"
+  }
+}

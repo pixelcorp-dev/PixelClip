@@ -1,0 +1,21 @@
+{
+  "metaTitle": "PixelClip Änderungen",
+  "metaDescription": "Neue Funktionen, Verbesserungen und Korrekturen in PixelClip, vom Twitch- und Kick-Clipping bis zu Preisen und Editor.",
+  "ogTitle": "PixelClip Änderungen",
+  "ogDescription": "Was sich in PixelClip für Nutzer geändert hat. Die neuesten Einträge stehen zuerst.",
+  "eyebrow": "Produktupdates",
+  "title": "Änderungen",
+  "intro": "Was sich für Menschen geändert hat, die PixelClip nutzen. Die neuesten Updates stehen zuerst.",
+  "hostedApp": "Gehostete App",
+  "startClipping": "Jetzt clippen",
+  "relatedChange": "Zugehörige Änderung {label}",
+  "viewOnGitHub": "Changelog auf GitHub ansehen",
+  "discordUpdates": "Updates auf Discord erhalten",
+  "discordDescription": "Aktiviere Benachrichtigungen für neue Versionshinweise.",
+  "categories": {
+    "new": "Neu",
+    "improved": "Verbessert",
+    "fixed": "Behoben",
+    "underTheHood": "Unter der Haube"
+  }
+}
