@@ -4,7 +4,7 @@
 
 Everything runs on your own machine or your own server through Docker Compose. There is no hosted service, no account on someone else's platform, and no paid plan: you bring the model keys (or run the models locally) and keep the output.
 
-**New here? Start with the [detailed self-hosting guide](SELF-HOSTING.md).**
+**New here? Start with the [detailed self-hosting guide](SELF-HOSTING.md). On Windows, follow the [WSL2 step-by-step tutorial](docs/wsl-windows-setup.md).**
 
 ## What it does
 
@@ -56,6 +56,7 @@ See the [self-hosting guide](SELF-HOSTING.md) for the full walkthrough, every se
 | Guide | What it covers |
 |---|---|
 | [Self-hosting guide](SELF-HOSTING.md) | Complete offline install: requirements, keys, configuration, local models, backups, updates |
+| [Windows + WSL2 setup](docs/wsl-windows-setup.md) | Beginner walkthrough for Windows: WSL2, Docker Desktop, first clip |
 | [Setup](docs/setup.md) | Docker-first install, local development, first-run checklist |
 | [Configuration](docs/configuration.md) | Every environment variable, operating modes, provider options |
 | [App Guide](docs/app-guide.md) | Screens and workflows |

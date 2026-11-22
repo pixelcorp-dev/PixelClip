@@ -28,7 +28,7 @@ The frontend, API, workers, and database are all local. Nothing is sent anywhere
 
 ## 2. Requirements
 
-- **Docker Engine 24+** with Compose v2. On Windows use WSL2 and run the commands from inside WSL.
+- **Docker Engine 24+** with Compose v2. On Windows use WSL2 and run the commands from inside WSL — see the [Windows + WSL2 tutorial](docs/wsl-windows-setup.md) for a beginner walkthrough.
 - **CPU:** 4 cores minimum, 8+ preferred. Rendering ffmpeg jobs are CPU-bound.
 - **RAM:** 8 GB minimum, 16 GB comfortable. Whisper `medium` needs roughly 4 GB on its own.
 - **Disk:** 20 GB free. Long videos and rendered clips are the big consumers; 1080p renders are several MB per clip.
